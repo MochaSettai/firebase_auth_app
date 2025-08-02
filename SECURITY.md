@@ -1,7 +1,7 @@
 
 # Security Policy
 
-## Overview
+## Sensitive Firebase Configuration
 This project uses Firebase Authentication and Hosting to ensure secure handling of user credentials and encrypted communication (HTTPS). Sensitive configuration files are never committed to version control.
 
 ## API Key & Domain Restrictions
