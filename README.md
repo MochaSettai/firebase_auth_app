@@ -1,7 +1,13 @@
 
 # Firebase Auth App
 
+
 A Flutter app with Firebase Authentication supporting login, registration (with name), and a personalized homepage. Deployable to Android, iOS, and Web via Firebase Hosting.
+
+## Deployment & Console Links
+
+- **Live App:** [https://login-auth-app-ca749.web.app](https://login-auth-app-ca749.web.app)
+- **Firebase Console:** [https://console.firebase.google.com/project/login-auth-app-ca749/overview](https://console.firebase.google.com/project/login-auth-app-ca749/overview)
 
 ## Features
 - User registration with name, email, and password
