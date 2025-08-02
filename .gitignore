@@ -23,6 +23,7 @@ migrate_working_dir/
 # is commented out by default.
 #.vscode/
 
+
 # Flutter/Dart/Pub related
 **/doc/api/
 **/ios/Flutter/.last_build_id
@@ -31,7 +32,9 @@ migrate_working_dir/
 .flutter-plugins-dependencies
 .pub-cache/
 .pub/
-/build/
+# Ignore all build output except build/web for Vercel/Netlify static hosting
+build/*
+!build/web/
 
 # Symbolication related
 app.*.symbols
