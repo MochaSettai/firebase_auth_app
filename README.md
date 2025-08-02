@@ -20,7 +20,6 @@ A Flutter app with Firebase Authentication supporting login, registration (with 
 ### Prerequisites
 - [Flutter SDK](https://flutter.dev/docs/get-started/install)
 - [Firebase CLI](https://firebase.google.com/docs/cli)
-- A Firebase project (see below)
 
 ### Setup
 1. Clone this repository.
